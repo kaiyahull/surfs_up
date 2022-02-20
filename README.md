@@ -11,11 +11,11 @@ The database contains weather data from 2010 - 2017. We analyzed data from June 
 * There are 1517 datapoints for December temperatures. The summary statistics show an average temperature of 71 F. The maximum and minimum temperatures are 83 and 56 F. 
 * The standard deviation is 3.26 degrees for June temperatures and 3.75 degrees for December. These are both fairly low values meaning there is not much variation in temperatures within the month and the you can expect daily temperatures to be around the month's average temperature. 
 
-<img src="images/june_summary_stats.png" width="200" height="250">
+<img src="images/june_summary_stats.png" width="200" height="400">
 
 **Summary statistics for June temperatures**
 
-<img src="images/dec_summary_stats.png" width="200" height="250">
+<img src="images/dec_summary_stats.png" width="200" height="400">
 
 **Summary statistics for December temperatures**
 
